@@ -16,4 +16,7 @@ add_executable(RayTracingInOneWeek main.cpp
         Common/material.h
         Utilities/aabb.h
         Hittable/bvh.h
+        Common/texture.h
+        External/stb_image.h
+        Common/rtw_stb_image.h
 )
