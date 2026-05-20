@@ -19,4 +19,5 @@ add_executable(RayTracingInOneWeek main.cpp
         Common/texture.h
         External/stb_image.h
         Common/rtw_stb_image.h
+        Utilities/perlin.h
 )
