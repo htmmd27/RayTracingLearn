@@ -14,4 +14,6 @@ add_executable(RayTracingInOneWeek main.cpp
         Utilities/interval.h
         Common/camera.h
         Common/material.h
+        Utilities/aabb.h
+        Hittable/bvh.h
 )
