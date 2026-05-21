@@ -20,4 +20,5 @@ add_executable(RayTracingInOneWeek main.cpp
         External/stb_image.h
         Common/rtw_stb_image.h
         Utilities/perlin.h
+        Hittable/quad.h
 )
